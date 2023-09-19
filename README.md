@@ -11,7 +11,7 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
 - [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -34,24 +34,24 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
   ```
 2. Change to the project directory:
   ```shell
-  cd wsgi-server
+    cd wsgi-server
   ```
 3. (Optional) Create and activate a virtual environment:
 
   ```shell
-  python -m venv venv
-  source venv/bin/activate
+    python -m venv venv
+    source venv/bin/activate
   ```
 4. Install the required dependencies:
   ```shell
-  pip install -r requirements.txt
+    pip install -r requirements.txt
   ```
 
 ## Usage
 To start the WSGI server, run the following command:
 
 ```shell
-python wsgi_server.py
+  python wsgi_server.py
 ```
 The server will start listening on the specified host and port. You can access it in a web browser or using HTTP client tools.
 
