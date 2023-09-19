@@ -30,7 +30,7 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
 1. Clone the repository:
 
   ```shell
-   git clone https://github.com/nky001/wsgi
+   git clone https://github.com/nky001/wsgi.git
   ```
 2. Change to the project directory:
   ```shell
