@@ -32,18 +32,17 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
 
    ```shell
    git clone https://github.com/nky001/wsgi
-``
-2.Change to the project directory:
+2. Change to the project directory:
   ```shell
   cd wsgi-server
   ```
-3.(Optional) Create and activate a virtual environment:
+3. (Optional) Create and activate a virtual environment:
 
   ```shell
   python -m venv venv
   source venv/bin/activate
   ```
-4.Install the required dependencies:
+4. Install the required dependencies:
   ```shell
   pip install -r requirements.txt
   ```
