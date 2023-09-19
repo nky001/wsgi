@@ -32,3 +32,42 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
 
    ```shell
    git clone https://github.com/nky001/wsgi
+``
+2.Change to the project directory:
+  ```shell
+  cd wsgi-server
+  ```
+3.(Optional) Create and activate a virtual environment:
+
+  ```shell
+  python -m venv venv
+  source venv/bin/activate
+  ```
+4.Install the required dependencies:
+  ```shell
+  pip install -r requirements.txt
+  ```
+
+## Usage
+To start the WSGI server, run the following command:
+
+```shell
+python wsgi_server.py
+```
+The server will start listening on the specified host and port. You can access it in a web browser or using HTTP client tools.
+
+## Customization
+The provided WSGI application is a simple "Hello, World!" example. You can customize the application method in wsgi_server.py to implement your own WSGI application logic.
+
+Additionally, you can modify other parts of the code to fit your specific requirements.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+  Fork the repository.
+  1.Create a new branch for your feature or bug fix.
+  2.Make your changes and commit them with descriptive commit messages.
+  3.Push your branch to your fork.
+  4.Create a pull request to the main repository's main branch.
+
+Please ensure your code follows best practices and includes appropriate tests if applicable.
