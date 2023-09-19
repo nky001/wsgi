@@ -27,11 +27,11 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
 - Python 3.x
 
 ### Installation
-
 1. Clone the repository:
 
-   ```shell
+  ```shell
    git clone https://github.com/nky001/wsgi
+  ```
 2. Change to the project directory:
   ```shell
   cd wsgi-server
