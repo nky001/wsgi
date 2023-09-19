@@ -64,9 +64,9 @@ Additionally, you can modify other parts of the code to fit your specific requir
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
   Fork the repository.
-  1.Create a new branch for your feature or bug fix.
-  2.Make your changes and commit them with descriptive commit messages.
-  3.Push your branch to your fork.
-  4.Create a pull request to the main repository's main branch.
+  - Create a new branch for your feature or bug fix.
+  - Make your changes and commit them with descriptive commit messages.
+  - Push your branch to your fork.
+  - Create a pull request to the main repository's main branch.
 
 Please ensure your code follows best practices and includes appropriate tests if applicable.
