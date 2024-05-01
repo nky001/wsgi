@@ -51,7 +51,7 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
 To start the WSGI server, run the following command:
 
 ```shell
-  python wsgi_server.py
+  python wsgi.py
 ```
 The server will start listening on the specified host and port. You can access it in a web browser or using HTTP client tools.
 
