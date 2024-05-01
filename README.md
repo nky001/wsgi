@@ -34,7 +34,7 @@ This is a basic implementation of a WSGI (Web Server Gateway Interface) server i
   ```
 2. Change to the project directory:
   ```shell
-    cd wsgi-server
+    cd wsgi
   ```
 3. (Optional) Create and activate a virtual environment:
 
