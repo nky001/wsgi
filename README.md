@@ -56,7 +56,7 @@ To start the WSGI server, run the following command:
 The server will start listening on the specified host and port. You can access it in a web browser or using HTTP client tools.
 
 ## Customization
-The provided WSGI application is a simple "Hello, World!" example. You can customize the application method in wsgi_server.py to implement your own WSGI application logic.
+The provided WSGI application is a simple "Hello, World!" example. You can customize the application method in wsgi.py to implement your own WSGI application logic.
 
 Additionally, you can modify other parts of the code to fit your specific requirements.
 
@@ -69,4 +69,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Push your branch to your fork.
 - Create a pull request to the main repository's main branch.
 
-Please ensure your code follows best practices and includes appropriate tests if applicable.
